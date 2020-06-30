@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #707070;
+        opacity: 0;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-6 {
+        fill: none;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        stroke: #fff;
+      }
+
+      .cls-2, .cls-3 {
+        stroke-linejoin: round;
+      }
+
+      .cls-2 {
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+
+      .cls-3, .cls-4 {
+        stroke-linecap: round;
+        stroke-width: 2px;
+      }
+
+      .cls-5 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="enterprise_icon" transform="translate(-253 -272)">
+    <g id="矩形_847" data-name="矩形 847" class="cls-1" transform="translate(253 272)">
+      <rect class="cls-5" width="50" height="50"/>
+      <rect class="cls-6" x="0.5" y="0.5" width="49" height="49"/>
+    </g>
+    <g id="组_296" data-name="组 296" transform="translate(179.5 0)">
+      <path id="路径_192" data-name="路径 192" class="cls-2" d="M1715.611,927.934V908.627l-16.721-9.654-16.721,9.654v19.307l16.721,9.654Z" transform="translate(-1600.67 -620.973)"/>
+      <g id="组_289" data-name="组 289" transform="translate(-0.313)">
+        <path id="路径_193" data-name="路径 193" class="cls-3" d="M1104.313,3644.938l8.938-5.854,9.313,5.854" transform="translate(-1015 -3350)"/>
+        <line id="直线_12" data-name="直线 12" class="cls-4" x2="14" transform="translate(91.5 302.5)"/>
+        <line id="直线_13" data-name="直线 13" class="cls-4" y1="8" transform="translate(98.5 294.5)"/>
+        <line id="直线_14" data-name="直线 14" class="cls-4" x2="5" transform="translate(98.5 297.5)"/>
+        <line id="直线_15" data-name="直线 15" class="cls-4" y1="5" transform="translate(93.5 297.5)"/>
+      </g>
+    </g>
+  </g>
+</svg>

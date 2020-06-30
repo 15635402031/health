@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-1 {
+        stroke: #707070;
+        opacity: 0;
+      }
+
+      .cls-2, .cls-5 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 2.5px;
+      }
+
+      .cls-4 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="law_executor_icon" transform="translate(-109 -409)">
+    <g id="矩形_848" data-name="矩形 848" class="cls-1" transform="translate(109 409)">
+      <rect class="cls-4" width="50" height="50"/>
+      <rect class="cls-5" x="0.5" y="0.5" width="49" height="49"/>
+    </g>
+    <g id="组_297" data-name="组 297" transform="translate(-112.145 -848.328)">
+      <path id="路径_195" data-name="路径 195" class="cls-2" d="M232.06,1284.962l-3.755-7.549a1.52,1.52,0,0,1,.916-2.13l15.978-4.888a1.52,1.52,0,0,1,.889,0l15.981,4.888a1.52,1.52,0,0,1,.916,2.13l-3.755,7.549a1.52,1.52,0,0,1-1.361.843H233.42A1.52,1.52,0,0,1,232.06,1284.962Z" transform="translate(0 0)"/>
+      <path id="路径_196" data-name="路径 196" class="cls-2" d="M329.747,1645.635A2.825,2.825,0,0,1,327.94,1643h24.553a2.825,2.825,0,0,1-1.807,2.635l-4.552,1.759a16.309,16.309,0,0,1-11.676.032Z" transform="translate(-94.571 -353.165)"/>
+      <path id="路径_197" data-name="路径 197" class="cls-3" d="M493.869,1345.086s-.946,1.6-3.788,1.443l.006,3.06a4.135,4.135,0,0,0,1.1,2.822,3.717,3.717,0,0,0,5.373,0,4.135,4.135,0,0,0,1.1-2.822l.006-3.06C494.815,1346.69,493.869,1345.086,493.869,1345.086Z" transform="translate(-248.225 -70.845)"/>
+    </g>
+  </g>
+</svg>

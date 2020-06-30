@@ -1,0 +1,81 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "uni-app"
+			}
+		}
+	    ,
+		{
+            "path" : "pages/my/index",
+            "style" : {
+				"navigationBarTitleText": "个人中心",
+				"app-plus": {"titleNView": false} 
+			}
+        }
+        ,{
+            "path" : "pages/obtainMsg/obtainMsg",
+            "style" : {
+				"navigationBarTitleText": "从业信息",
+				"app-plus": {"titleNView": false} 
+			}
+        }
+        
+        ,{
+            "path" : "pages/real/real",
+            "style" : {
+				"navigationBarTitleText": "实名认证",
+				"app-plus": {"titleNView": false} 
+			}
+        }
+        ,{
+            "path" : "pages/faceRecognition/faceRecognition",
+            "style" : {
+				"navigationBarTitleText": "人脸识别",
+				"app-plus": {"titleNView": false} 
+			}
+        }
+        ,{
+            "path" : "pages/addHealth/addHealth",
+            "style" : {
+				"navigationBarTitleText": "添加健康证",
+				"app-plus": {"titleNView": false} 
+			}
+        }
+        ,{
+            "path" : "pages/realname/realname",
+            "style" : {
+				"navigationBarTitleText": "实名认证信息",
+				"app-plus": {"titleNView": false} 
+			}
+        }
+        ,{
+            "path" : "pages/loginTel/loginTel",
+            "style" : {
+				"navigationBarTitleText": "绑定手机号",
+				"app-plus": {"titleNView": false} 
+			}
+        }
+        ,{
+            "path" : "pages/myUtils/myUtils",
+            "style" : {
+				"navigationBarTitleText": "个人设置",
+				"app-plus": {"titleNView": false} 
+			}
+        }
+        ,{
+            "path" : "pages/checkTel/checkTel",
+            "style" : {
+				"navigationBarTitleText": "修改手机号",
+				"app-plus": {"titleNView": false} 
+			}
+        }
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",//全局标题颜色
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	}
+}

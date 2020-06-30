@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #707070;
+        opacity: 0;
+      }
+
+      .cls-2 {
+        fill: #60a5ff;
+      }
+
+      .cls-3 {
+        stroke: none;
+      }
+
+      .cls-4 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="prompt_icon" transform="translate(2024 -68)">
+    <g id="矩形_845" data-name="矩形 845" class="cls-1" transform="translate(-2024 68)">
+      <rect class="cls-3" width="20" height="20"/>
+      <rect class="cls-4" x="0.5" y="0.5" width="19" height="19"/>
+    </g>
+    <path id="路径_20" data-name="路径 20" class="cls-2" d="M138.468,194.4a.52.52,0,0,0-.816-.428l-4.112,2.894a1.048,1.048,0,0,1-.6.189h-2.792a1.04,1.04,0,0,0-1.04,1.045v3.136a1.04,1.04,0,0,0,1.04,1.045h2.792a1.048,1.048,0,0,1,.6.189l4.112,2.895a.52.52,0,0,0,.816-.428V194.4Z" transform="translate(-2150.878 -121.552)"/>
+    <g id="组_303" data-name="组 303" transform="translate(-2011.102 72.15)">
+      <path id="路径_199" data-name="路径 199" class="cls-2" d="M141.373,198.644h-2.31a.693.693,0,1,1,0-1.386h2.31a.693.693,0,1,1,0,1.386Z" transform="translate(-138.37 -191.988)"/>
+      <path id="路径_200" data-name="路径 200" class="cls-2" d="M139.741,200.492l1.526,1.523a.646.646,0,1,1-.914.915l-1.525-1.524a.646.646,0,0,1,.914-.912Z" transform="translate(-138.414 -191.018)"/>
+      <path id="路径_201" data-name="路径 201" class="cls-2" d="M139.741,202.954l1.526-1.523a.646.646,0,1,0-.914-.915l-1.525,1.524a.646.646,0,0,0,.914.912Z" transform="translate(-138.414 -200.327)"/>
+    </g>
+  </g>
+</svg>
